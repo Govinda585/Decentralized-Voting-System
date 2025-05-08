@@ -88,6 +88,6 @@ This project is UNLICENSED — you may use, copy, modify, and distribute this co
 ### 1. All Pages
 
 ![Before Wallet Connection](screenshots/DVS1_Before_Wallet_Connection.PNG)  
-![After Creating Proposal](screenshots/DVS2_After_Creating_Proposal.PNG)  
+![After Creating Proposal](screenshots/DVS2_After_Creating_Porposal.PNG)  
 ![Voting](screenshots/DVS3_Voting.PNG)  
 ![After Submitting Vote](screenshots/DVS4_After_Submitting_Vote.PNG)
